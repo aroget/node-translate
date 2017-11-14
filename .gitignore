@@ -1,0 +1,6 @@
+results.txt
+source.json
+.DS_Store
+.gitignore.swp
+node_modules
+
